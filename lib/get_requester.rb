@@ -17,6 +17,3 @@ class GetRequester
     JSON.parse(get_response_body)
   end
 end
-
-
-.
